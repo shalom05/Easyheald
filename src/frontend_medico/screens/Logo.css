@@ -1,0 +1,13 @@
+body{
+    background-color: #F5F4F4;
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    width: 548px;
+    height: 589px;
+    border-radius: 0%;
+    border-color: transparent;
+    background-color: #F5F4F4;
+}
